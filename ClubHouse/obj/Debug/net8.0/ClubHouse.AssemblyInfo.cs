@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClubHouse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8bb864351a2ca79574be76521b057d241b2c57d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClubHouse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClubHouse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
